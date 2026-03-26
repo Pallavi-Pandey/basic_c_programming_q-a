@@ -1,4 +1,4 @@
-# How to Run C Programs
+# C Programming Qa
 
 ## 1. Open Terminal
 ```bash
